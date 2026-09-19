@@ -61,7 +61,21 @@ La carcasa del proyecto fue diseñada y modelada en 3D.
 
 Documentación relacionada con la instalación de controladores para ESP32:
 
-[ESP32 — Instalación de drivers](https://docs.sunfounder.com/projects/esp32-starter-kit/es/latest/faq/install_driver.html?utm_source=chatgpt.com)
+[ESP32 — Instalación de drivers](https://docs.sunfounder.com/projects/esp32-starter-kit/es/latest/faq/install_driver.html)
+
+---
+Cómo Usar el Web Flasher
+Abrir el Web Flasher: Ve al enlace del [link web flasher](https://esp32-bluejammerflasher.pages.dev/)
+
+Conecta tu ESP32: Asegúrate de que tu ESP32 esté conectado a tu computadora usando un cable USB.
+
+Selecciona el Firmware: Haz clic en el firmware que deseas instalar de las opciones disponibles.
+
+Elige el Puerto COM: Si tu ESP32 no está ya seleccionado, elige el puerto COM correcto donde está conectado tu dispositivo.
+
+Iniciar el Flasheo: Presiona el botón "Flash" para comenzar a flashear el firmware en el ESP32. Espera hasta que el proceso se complete.
+
+Listo: Una vez que el flasheo haya terminado, el ESP32 se reiniciará y estará listo para usarse con el nuevo firmware.
 
 ---
 
